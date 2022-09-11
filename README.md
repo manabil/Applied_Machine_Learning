@@ -1,4 +1,4 @@
-# 🏢 Applied Machine Learning
+# Applied Machine Learning 🏢
 
 👨‍💻 Learn how to implement a model of machine learning to solve a real problem
 
