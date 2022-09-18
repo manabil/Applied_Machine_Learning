@@ -9,6 +9,10 @@
 * [Study Case 2 - Sentiment Classification in Comment](https://github.com/manabil/Applied_Machine_Learning/blob/main/(Study%20Case%20II)%20Sentiment%20Analysis%20PyTorch.ipynb)
 
   Classify sentiment of a sentences 
+  
+* [Study Case 3 - House Price in Beijing Predictor (Predictive Analysis)](https://github.com/manabil/Applied_Machine_Learning/tree/main/House%20Price%20in%20Beijing%20Predictor)
+
+  Predict price of house in Beijing based on 26 features (building type, size, bathroom etc)
 
 ## 🏗 Previous Subject
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=manabil&repo=Machine_Learning_Intermediate&show_owner=true&theme=tokyonight&bg_color=151515&title_color=fb8c00&text_color=ffffff&icon_color=39d353&border_color=151515)](https://github.com/manabil/Machine_Learning_Intermediate)
