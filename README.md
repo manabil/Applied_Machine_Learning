@@ -10,7 +10,7 @@
 
   Classify sentiment of a sentences 
   
-* [Study Case 3 - House Price in Beijing Predictor (Predictive Analysis)](https://github.com/manabil/Applied_Machine_Learning/tree/main/House%20Price%20in%20Beijing%20Predictor)
+* [Study Case 3 - House Price in Beijing Predictor (Predictive Analysis)](https://github.com/manabil/Applied_Machine_Learning/tree/main/(Study%20Case%20III)%20House%20Price%20in%20Beijing%20Predictor)
 
   Predict price of house in Beijing based on 26 features (building type, size, bathroom etc)
   
