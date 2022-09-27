@@ -21,8 +21,8 @@
   Recommendation System to recommend n-Top Recommendation of same restaurant based on cuisine
   
 * Study Case 5 - Film Recommender (Recommendation System)
-  * [Film Recommender with Collaborative Filtering](https://github.com/manabil/Applied_Machine_Learning/blob/main/(Study%20Case%20IV)%20Recommendation%20System/Recommendation%20System%20(Collaborative%20Filtering).ipynb)
-  * [Film Recommender with Collaborative Filtering](https://github.com/manabil/Applied_Machine_Learning/blob/main/(Study%20Case%20IV)%20Recommendation%20System/Recommendation%20System%20(Collaborative%20Filtering).ipynb)
+  * [Film Recommender with Collaborative Filtering](https://github.com/manabil/Applied_Machine_Learning/blob/main/(Study%20Case%20V)%20Film%20Recommendation%20System/Film%20Recommender.ipynb)
+  * [Film Recommender with Content Based Filtering](https://github.com/manabil/Applied_Machine_Learning/blob/main/(Study%20Case%20V)%20Film%20Recommendation%20System/Film%20Recommender.ipynb)
 
   Predict price of house in Beijing based on 26 features (building type, size, bathroom etc)
 
